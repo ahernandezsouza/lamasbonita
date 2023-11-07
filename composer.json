@@ -26,6 +26,7 @@
         "drupal/fontyourface": "^4.0",
         "drupal/menu_manipulator": "^3.0",
         "drupal/paragraphs": "^1.16",
+        "drupal/svg_image": "^3.0",
         "drupal/twbstools": "2.1.x-dev",
         "drush/drush": "^12.4"
     },

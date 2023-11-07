@@ -141,4 +141,22 @@ header#navbar {
 
 .region.region-navigation-collapsible {
     display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: left;
+}
+
+section#block-socialnetworks {
+    margin-left: auto;
+}
+
+ul#social-media {
+    display: flex;
+    margin-right: 10px;
+}
+
+ul#social-media li {
+    list-style-type: none;
+    margin-top: 10px;
+    margin-left: 10px;
 }
