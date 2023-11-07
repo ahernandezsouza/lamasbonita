@@ -1,0 +1,144 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+body.path-frontpage{
+    margin-top: 0px !important;
+}
+
+body.path-frontpage .paragraph--id--1 {
+    background-image: url('https://la-mas-bonita.lndo.site/sites/default/files/2023-11/cuadro_fondo_home.jpg');
+    height: 640px;
+    background-size: cover;
+    background-repeat: round;
+}
+
+body.path-frontpage .paragraph--id--1 .field--name-bp-unrestricted {
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+body.path-frontpage .paragraph--id--1 .paragraph__column {
+    background-image: url('/themes/custom/boostrap_lamasbonita/images/flor-03.svg');
+    background-size: 250px 250px;
+    background-position: 0px,0px,30px,30px;
+    border-bottom-left-radius: 50% 12%;
+    border-bottom-right-radius: 50% 15%;
+}
+
+body.path-frontpage p#home-title {
+    color: #fff;
+    font-size: 40px;
+}
+
+body.path-frontpage .paragraph--id--5.paragraph--width--wide {
+    margin-top: 50px;
+}
+
+body.path-frontpage .paragraph--type--bp-columns__3col img.img-responsive {
+    border-radius: 35px;
+}
+
+body.path-frontpage .paragraph.paragraph--type--bp-simple.paragraph--view-mode--default.paragraph--id--3 h2 {
+    font-family: 'Euphoria Script';
+    font-style: normal;
+    font-weight: bold;
+    color: #DA9D2C;
+}
+
+body.path-frontpage p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+body.path-frontpage .paragraph--id--5.paragraph--width--wide .paragraph__column .paragraph--type--bp-columns__3col:nth-child(3) h2 {
+  visibility: hidden;
+}
+
+#bugambilia-bordada p {
+    border-radius: 50%;
+    border: #DA9D2C 5px solid;
+    width: 250px;
+    height: 250px;
+}
+
+#bugambilia-bordada img.img-circle {
+    height: 240px;
+    width: 240px;
+    border: #fff 5px solid;
+}
+
+#tienda {
+    font-family: 'Euphoria Script';
+    font-style: normal;
+    font-weight: bold;
+    color: #fff;
+}
+
+body.path-frontpage .paragraph.paragraph--type--bp-blank.paragraph--view-mode--default.paragraph--id--6.paragraph--width--full {
+  background-image: url('/sites/default/files/2023-11/cuadro_fondo_rosa_home.jpg');
+  background-size: cover;
+}
+
+body.path-frontpage .paragraph.paragraph--type--bp-blank.paragraph--view-mode--default.paragraph--id--6.paragraph--width--full .paragraph__column {
+    background-image: url('/themes/custom/boostrap_lamasbonita/images/flor-04.svg');
+    background-size: 250px 250px;
+    background-position: 0px,0px,30px,30px;
+    margin-bottom: -2px;
+}
+
+body.path-frontpage .paragraph.paragraph--type--bp-columns.paragraph--view-mode--default.paragraph--id--11.paragraph--width--full {
+    background-color: #D375B5;
+    color: #fff;
+}
+
+body.path-frontpage .paragraph.paragraph--type--bp-columns.paragraph--view-mode--default.paragraph--id--11.paragraph--width--full > .paragraph__column {
+    background-image: url('/themes/custom/boostrap_lamasbonita/images/flor-04.svg');
+    background-size: 250px 250px;
+    background-position-x: 0px,0px,30px,30px;
+    background-position-y: -49px;
+}
+
+header#navbar {
+    background-color: #CB8726;
+    border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #fff !important;
+    background-color: #DA9D2C !important;
+}
+
+.navbar-default .nav>li>a {
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.navbar-default .nav>.active>a, .navbar-default .nav>.active>a:focus, .navbar-default .nav>.active>a:hover {
+    color: #fff !important;
+    background-color: #DA9D2C !important;
+}
+
+.navbar-default .nav>li>a:focus, .navbar-default .nav>li>a:hover {
+    color: #333;
+    background-color: transparent;
+}
+
+.region.region-navigation-collapsible {
+    display: flex;
+}
