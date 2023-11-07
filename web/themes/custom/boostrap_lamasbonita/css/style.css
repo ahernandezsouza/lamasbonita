@@ -7,7 +7,7 @@ body.path-frontpage{
 }
 
 body.path-frontpage .paragraph--id--1 {
-    background-image: url('https://la-mas-bonita.lndo.site/sites/default/files/2023-11/cuadro_fondo_home.jpg');
+    background-image: url('/sites/default/files/2023-11/cuadro_fondo_home.jpg');
     height: 640px;
     background-size: cover;
     background-repeat: round;
