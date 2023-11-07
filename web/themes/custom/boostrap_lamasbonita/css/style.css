@@ -3,7 +3,7 @@
  * your custom CSS modifications here.
  */
 body.path-frontpage{
-    margin-top: 0px !important;
+    margin-top: -15px !important;
 }
 
 body.path-frontpage .paragraph--id--1 {
