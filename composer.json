@@ -28,6 +28,7 @@
         "drupal/paragraphs": "^1.16",
         "drupal/svg_image": "^3.0",
         "drupal/twbstools": "2.1.x-dev",
+        "drupal/webform": "^6.2",
         "drush/drush": "^12.4"
     },
     "require-dev": {
