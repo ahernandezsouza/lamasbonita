@@ -168,6 +168,17 @@ ul#social-media li {
         background-repeat: no-repeat;
         background-position: top center;
     }
+    .panel-format{
+        background: rgba(4, 33, 46, 0.4);
+        color: #fff;
+        border-radius: 25px;
+        border-width: 3px;
+        font-size: 18px;
+        padding-left: 5px;
+        padding-right: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
 
 @media screen and (max-width: 767px) {
@@ -181,6 +192,17 @@ ul#social-media li {
     body.path-webform .main-container {
         position: absolute;
         bottom: 100px;
+    }
+    .panel-format{
+        background: rgba(4, 33, 46, 0.4);
+        color: #fff;
+        border-radius: 25px;
+        border-width: 3px;
+        font-size: 18px;
+        padding-left: 5px;
+        padding-right: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
 
