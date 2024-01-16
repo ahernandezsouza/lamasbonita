@@ -160,3 +160,30 @@ ul#social-media li {
     margin-top: 10px;
     margin-left: 10px;
 }
+
+@media screen and (min-width: 768px) {
+    body.path-webform {
+        background-image: url('/sites/default/files/2024-01/WhatsApp%20Image%202024-01-09%20at%208.05.36%20PM.jpeg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top center;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    body.path-webform {
+        background-image: url('/sites/default/files/2024-01/WhatsApp%20Image%202024-01-09%20at%208.05.36%20PM%20%281%29.jpeg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top center;
+        height: 100vh;
+    }
+    body.path-webform .main-container {
+        position: absolute;
+        bottom: 100px;
+    }
+}
+
+body.path-webform header#navbar {
+    display: none;
+}
